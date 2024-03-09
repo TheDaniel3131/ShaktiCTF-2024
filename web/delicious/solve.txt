@@ -1,0 +1,6 @@
+pretty easy actually.
+
+the deployed website from the challenge hinted cookie so I sent the raw request to repeater and change the admin value to 1 and you will
+get the flag.
+
+https://imgur.com/a/3Guzd7T
