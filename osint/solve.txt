@@ -1,0 +1,13 @@
+it took me awhile to solve these but I just use reverse image search and then look up the history of the ship
+
+https://en.wikipedia.org/wiki/Mary_Celeste
+
+questions:
+1)Who is the individual from crew has previously sailed with the captain of the ship?
+2)What was the name of Captain's close friend from the crew that found the abandoned ship?
+3)In the logbook, the captain noted the sighting of land, describing it as an island.What is the name of this enigmatic island?
+4)What was the original name of the ship shown in the image?
+
+I tried many attempts because of the naming lol but I got it at the end :)
+
+flag: shaktictf{Albert_G_Richardson:David_Morehouse:Santa_Maria:Amazon}
