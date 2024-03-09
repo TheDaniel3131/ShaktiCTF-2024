@@ -6,3 +6,5 @@ get the flag.
 https://imgur.com/a/3Guzd7T
 
 hosted deployed challenge website link: h231192161221.ch.eng.run
+
+flag: shaktictf{heyo_beginnerr_you_got_the_flag}
