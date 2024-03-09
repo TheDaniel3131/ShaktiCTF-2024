@@ -1,0 +1,16 @@
+Dcoder: 
+
+It is maritime signal flags, you can read here for more info: https://www.etsy.com/listing/1142133045/international-maritime-signal-flags
+https://www.google.com/search?q=maritime+signal+flags&rlz=1C1GCEU_enMY959MY959&oq=maritime+signal+flags&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyDQgIEAAYhgMYgAQYigUyDQgJEAAYhgMYgAQYigXSAQg1MzA1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#imgrc=qAr3KY3ac2egnM&imgdii=rfaMM6MKz7pMdM
+
+
+solution: https://www.dcode.fr/code-signal-maritime
+https://imgur.com/a/2L1ViAg
+
+result: WASITTOOEASYTOFINDD
+
+WAS_IT_TOO_EASY_TO_FIND (make it case sensitive)
+
+was_it_too_easy_to_find
+
+flag: shaktictf{was_it_too_easy_to_find}
